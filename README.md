@@ -233,27 +233,7 @@ PROJECTS
 
 ## ⚡ TERMINAL
 
-```text
-┌──(sanjay㉿admin)-[~/journey]
-└─$ whoami
-
-Sanjay X Admin
-
-┌──(sanjay㉿admin)-[~/journey]
-└─$ cat mission.txt
-
-Learn.
-Build.
-Understand.
-Secure.
-
-┌──(sanjay㉿admin)-[~/journey]
-└─$ echo "24/10/2008"
-
-THE JOURNEY BEGAN HERE.
-```
-
----
+```texT
 
 ## 💭 PHILOSOPHY
 
