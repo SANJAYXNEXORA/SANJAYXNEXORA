@@ -36,9 +36,9 @@
 │                                                      │
 │      ETHICAL HACKING • CYBERSECURITY • WEB           │
 │                                                      │
-│      > building                                     │
-│      > learning                                     │
-│      > securing                                     │
+│      > building                                      │
+│      > learning                                      │
+│      > securing                                      │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 ```
@@ -74,8 +74,8 @@ secured, and build useful projects along the way.
 │  🛡️ PENETRATION TESTING                              │
 │  🌍 NETWORK SECURITY                                 │
 │  🐧 LINUX                                            │
-│  🧪 SECURITY LABS                                   │
-│  🔎 VULNERABILITY RESEARCH                            │
+│  🧪 SECURITY LABS                                    │
+│  🔎 VULNERABILITY RESEARCH                           │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 ```
@@ -299,7 +299,7 @@ THE JOURNEY BEGAN HERE.
 
 <h2>⚡ SANJAY X ADMIN ⚡</h2>
 
-<h3>24 / 10 / 2008</h3>
+<h3>24 / 10 / 2008 WILL NOT FORGET THIS DATE UNTILL MY DEATH</h3>
 
 <p><strong>BUILD YOUR SKILLS. BUILD YOUR FUTURE.</strong></p>
 
