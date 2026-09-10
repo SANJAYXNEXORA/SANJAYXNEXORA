@@ -1,90 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:0066ff&height=230&section=header&text=SANJAY%20X%20ADMIN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,40:003b2f,70:00ff88,100:0066ff&height=240&section=header&text=SANJAY%20X%20NEXORA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<h2>⚡ BUILD • LEARN • EXPLORE ⚡</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=800&lines=%5BSYSTEM+ONLINE%5D;%5BACCESS+GRANTED%5D;%5BNEXORA+PROTOCOL+INITIALIZED%5D;%5BCYBERSECURITY+JOURNEY+ACTIVE%5D"/>
+
+<br><br>
+
+<h2>⚡ BUILD • LEARN • EXPLORE • SECURE ⚡</h2>
 
 <p>
-  <code>ETHICAL HACKING</code>
-  <code>CYBERSECURITY</code>
-  <code>PYTHON</code>
-  <code>WEB SECURITY</code>
+<img src="https://img.shields.io/badge/ETHICAL_HACKING-00ff88?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-0066ff?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/WEB_SECURITY-111111?style=for-the-badge&logo=googlechrome&logoColor=00ff88"/>
 </p>
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=800&pause=300&color=00FF88&center=true&vCenter=true&width=550&lines=24+%2F+10+%2F+2008"/>
 
-<h3> | NEXORA | NEXORA | NEXORA |</h3>
+<h3>⚡ NEXORA • NEXORA • NEXORA ⚡</h3>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+space;Ethical+Hacking+Learner;Exploring+Cybersecurity;Learning+How+Systems+Work;Building+My+Future+With+Technology"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+space;Ethical+Hacking+Learner;Cybersecurity+Explorer;Learning+How+Systems+Work;Breaking+Problems+to+Build+Better;Building+My+Future+With+Technology"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SANJAYXNEXORA&style=for-the-badge&color=00ff88&label=SYSTEM+VISITS"/>
 
 </div>
 
 ---
 
-## 💻 SANJAY // ADMIN
+# ⚡ `SANJAY // NEXORA`
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│              SANJAY // ADMIN                         │
-│                                                      │
-│      ETHICAL HACKING • CYBERSECURITY • WEB           │
-│                                                      │
-│      > building                                      │
-│      > learning                                      │
-│      > securing                                      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                  S A N J A Y   X   N E X O R A             ║
+║                                                            ║
+║              ┌────────────────────────────┐                ║
+║              │     SYSTEM INITIALIZED     │                ║
+║              └────────────────────────────┘                ║
+║                                                            ║
+║     ETHICAL HACKING  •  CYBERSECURITY  •  PYTHON           ║
+║                                                            ║
+║     > BUILDING                                             ║
+║     > LEARNING                                             ║
+║     > TESTING                                              ║
+║     > UNDERSTANDING                                        ║
+║     > SECURING                                             ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
+
+```text
+[ STATUS ]     ONLINE
+[ MODE ]       LEARNING
+[ NETWORK ]    NEXORA
+[ MISSION ]    CYBERSECURITY
+[ ACCESS ]     AUTHORIZED
+```
+
+</div>
 
 ---
 
-## 👨‍💻 ABOUT
+# 🧬 `IDENTITY`
 
 ```text
-├── 🎓 Class 12 | CBSE
-├── 💻 Python / Web Development
-├── 🔐 Cybersecurity Learner
-├── 🛡️ Ethical Hacking Learner
-├── 🌐 Penetration Testing Learner
-└── 🚀 Building Projects
+┌──(sanjay㉿nexora)-[~/profile]
+└─$ whoami
+
+SANJAY X NEXORA
+
+┌──(sanjay㉿nexora)-[~/profile]
+└─$ cat identity.txt
+
+🎓 Class 12 | CBSE
+💻 Python / Web Development
+🔐 Cybersecurity Learner
+🛡️ Ethical Hacking Learner
+🌐 Penetration Testing Learner
+🐧 Linux Explorer
+🚀 Project Builder
 ```
 
 I'm a student interested in **ethical hacking, cybersecurity,
 programming and web technologies**.
 
-My goal is to understand how systems work, learn how they can be
-secured, and build useful projects along the way.
+My goal is simple:
+
+> **Understand systems. Find weaknesses. Build better security.**
 
 ---
 
-## 🔐 CYBERSECURITY FOCUS
+# 🔐 `CYBERSECURITY // CORE`
+
+<div align="center">
+
+|           MODULE          |    STATUS   |
+| :-----------------------: | :---------: |
+|     🔐 Ethical Hacking    |  `LEARNING` |
+|      🌐 Web Security      |  `LEARNING` |
+|  🛡️ Penetration Testing  |  `LEARNING` |
+|    🌍 Network Security    |  `LEARNING` |
+|          🐧 Linux         |   `ACTIVE`  |
+|      🧪 Security Labs     |   `ACTIVE`  |
+| 🔎 Vulnerability Research | `EXPLORING` |
+|    🧠 Security Concepts   |   `ACTIVE`  |
+
+</div>
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🔐 ETHICAL HACKING                                  │
-│  🌐 WEB SECURITY                                     │
-│  🛡️ PENETRATION TESTING                              │
-│  🌍 NETWORK SECURITY                                 │
-│  🐧 LINUX                                            │
-│  🧪 SECURITY LABS                                    │
-│  🔎 VULNERABILITY RESEARCH                           │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│                    NEXORA SECURITY CORE                     │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  [01] ETHICAL HACKING                                      │
+│  [02] WEB APPLICATION SECURITY                             │
+│  [03] NETWORK SECURITY                                     │
+│  [04] LINUX                                                │
+│  [05] SECURITY TESTING                                     │
+│  [06] VULNERABILITY RESEARCH                               │
+│  [07] DIGITAL FORENSICS                                    │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
 > **Learn the technology. Understand the weakness. Secure the system.**
 
 ---
 
-## 🛠️ TECH STACK
+# 🧠 `CURRENTLY LEARNING`
+
+```text
+PYTHON              ███████████████░░░░░  75%
+CYBERSECURITY       ████████████░░░░░░░░  60%
+ETHICAL HACKING     ██████████░░░░░░░░░░  50%
+LINUX               ██████████░░░░░░░░░░  50%
+WEB SECURITY        ████████░░░░░░░░░░░░  40%
+NETWORKING          ███████░░░░░░░░░░░░░  35%
+JAVASCRIPT          ██████░░░░░░░░░░░░░░  30%
+PENETRATION TESTING █████░░░░░░░░░░░░░░░  25%
+```
+
+---
+
+# 🛠️ `TECH STACK`
 
 <div align="center">
 
@@ -95,159 +163,174 @@ secured, and build useful projects along the way.
 <br>
 
 ```text
-LANGUAGES
-├── Python
-├── C++
-├── HTML       [ BASIC ]
-├── CSS
-└── JavaScript [ CURRENTLY LEARNING ]
-
-PLATFORMS
-├── Windows
-├── Linux
-└── Kali Linux
-
-TOOLS / ENVIRONMENT
-├── Nmap
-├── Wireshark
-├── VirtualBox
-└── Git / GitHub
+╔════════════════════════════════════════════════════════════╗
+║                        LANGUAGES                           ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  🐍 Python                                                  ║
+║  ⚙️ C++                                                    ║
+║  🌐 HTML                                                   ║
+║  🎨 CSS                                                    ║
+║  ⚡ JavaScript                                              ║
+║                                                            ║
+╠════════════════════════════════════════════════════════════╣
+║                        PLATFORMS                           ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  🪟 Windows                                                 ║
+║  🐧 Linux                                                   ║
+║  ⚔️ Kali Linux                                              ║
+║                                                            ║
+╠════════════════════════════════════════════════════════════╣
+║                     TOOLS / ENVIRONMENT                    ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  Nmap        •        Wireshark        •        VirtualBox  ║
+║  Git         •        GitHub            •        VS Code    ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🚀 PROJECTS
+# 🚀 `PROJECTS`
 
 ```text
-PROJECTS
-│
-├── 🔹 SRAM
-│      San Resistivity Atom Model
-│
-├── 🔹 Smart Zebra Crossing
-│      Safety-focused technology project
-│
-├── 🔹 Python Projects
-│      Programming & file-handling experiments
-│
-└── 🔹 Cybersecurity Labs
-       Learning security concepts in controlled environments
+┌── PROJECT DATABASE ─────────────────────────────────────────┐
+│                                                            │
+│  [01] SRAM                                                  │
+│       San Resistivity Atom Model                            │
+│                                                            │
+│  [02] SMART ZEBRA CROSSING                                  │
+│       Safety-focused technology project                     │
+│                                                            │
+│  [03] PYTHON PROJECTS                                       │
+│       Programming & file-handling experiments               │
+│                                                            │
+│  [04] CYBERSECURITY LABS                                   │
+│       Controlled security learning environments             │
+│                                                            │
+│  [05] NEXORA TOOLS                                          │
+│       Personal experiments and technology projects          │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 CURRENTLY LEARNING
+# 🌐 `WEB SECURITY`
 
 ```text
-[████████████░░░░░░░░] Python
+┌────────────────────────────────────────────────────────────┐
+│                    WEB SECURITY LAB                         │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  > HTTP / HTTPS                                             │
+│  > Web Applications                                         │
+│  > Authentication                                           │
+│  > Sessions                                                 │
+│  > Common Web Vulnerabilities                               │
+│  > Security Testing                                         │
+│  > Secure Coding                                            │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
-[██████████░░░░░░░░░░] Cybersecurity
+**All security testing is performed only on systems and environments where I have authorization.**
 
-[████████░░░░░░░░░░░░] Ethical Hacking
+---
 
-[███████░░░░░░░░░░░░░] JavaScript
+# 🎯 `NEXORA // ROADMAP`
 
-[██████░░░░░░░░░░░░░░] Web Security
-
-[█████░░░░░░░░░░░░░░░] Networking
-
-[████░░░░░░░░░░░░░░░░] Penetration Testing
+```text
+                         ┌───────────────┐
+                         │     START     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │   🐍 PYTHON   │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │  🌐 WEB DEV   │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │   🐧 LINUX    │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │ 🌍 NETWORKING │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                       ┌───────────────────┐
+                       │ 🔐 CYBERSECURITY  │
+                       └─────────┬─────────┘
+                                 │
+                                 ▼
+                       ┌───────────────────┐
+                       │ 🛡️ ETHICAL HACKING │
+                       └─────────┬─────────┘
+                                 │
+                                 ▼
+                       ┌───────────────────┐
+                       │ 🧪 SECURITY LABS  │
+                       └─────────┬─────────┘
+                                 │
+                                 ▼
+                       ┌───────────────────┐
+                       │ 🚀 REAL PROJECTS  │
+                       └─────────┬─────────┘
+                                 │
+                                 ▼
+                       ┌───────────────────┐
+                       │ CYBERSECURITY     │
+                       │   PROFESSIONAL    │
+                       └───────────────────┘
 ```
 
 ---
 
-## 🌐 WEB SECURITY
+# ⚡ `TERMINAL`
 
 ```text
-> HTTP / HTTPS
-> Web Applications
-> Authentication
-> Common Web Vulnerabilities
-> Security Testing
-> Secure Coding
+┌──(sanjay㉿nexora)-[~/journey]
+└─$ neofetch
+
+          ████████╗██╗  ██╗
+          ╚══██╔══╝╚██╗██╔╝
+             ██║    ╚███╔╝
+             ██║    ██╔██╗
+             ██║   ██╔╝ ██╗
+             ╚═╝   ╚═╝  ╚═╝
+
+     SANJAY X NEXORA
+     ----------------
+     OS        : Windows / Kali Linux
+     Language  : Python
+     Focus     : Cybersecurity
+     Mode      : Learning
+     Status    : ONLINE
 ```
 
-**Everything here is for learning and authorized security testing.**
-
----
-
-## 🎯 MY ROADMAP
-
 ```text
-                 START
-                   │
-                   ▼
-              🐍 PYTHON
-                   │
-                   ▼
-              🌐 WEB DEV
-                   │
-                   ▼
-              🐧 LINUX
-                   │
-                   ▼
-             🌍 NETWORKING
-                   │
-                   ▼
-          🔐 CYBERSECURITY
-                   │
-                   ▼
-          🛡️ ETHICAL HACKING
-                   │
-                   ▼
-        🧪 SECURITY LABS / CTFs
-                   │
-                   ▼
-         🚀 REAL-WORLD PROJECTS
-                   │
-                   ▼
-             CYBERSECURITY
-             PROFESSIONAL
-```
-
----
-
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SANJAYXADMIN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SANJAYXADMIN&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANJAYXADMIN&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## ⚡ TERMINAL
-
-```text
-┌──(sanjay㉿admin)-[~/journey]
-└─$ whoami
-
-Sanjay X Admin
-
-┌──(sanjay㉿admin)-[~/journey]
+┌──(sanjay㉿nexora)-[~/journey]
 └─$ cat mission.txt
 
-Learn.
-Build.
-Understand.
-Secure.
+LEARN
+BUILD
+TEST
+UNDERSTAND
+SECURE
+```
 
-┌──(sanjay㉿admin)-[~/journey]
+```text
+┌──(sanjay㉿nexora)-[~/journey]
 └─$ echo "24/10/2008"
 
 THE JOURNEY BEGAN HERE.
@@ -255,35 +338,71 @@ THE JOURNEY BEGAN HERE.
 
 ---
 
-## 💭 PHILOSOPHY
+# 💭 `PHILOSOPHY`
 
 <div align="center">
 
-### `DON'T JUST USE TECHNOLOGY.`
+## `DON'T JUST USE TECHNOLOGY.`
 
-### `UNDERSTAND HOW IT WORKS.`
+## `UNDERSTAND HOW IT WORKS.`
 
 <br>
 
-`LEARN → BUILD → TEST → UNDERSTAND → SECURE`
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+UNDERSTAND
+  ↓
+SECURE
+  ↓
+REPEAT
+```
 
 </div>
 
 ---
 
-## 🌐 GITHUB
+# 📊 `GITHUB // SYSTEM STATS`
 
 <div align="center">
 
-<a href="https://github.com/SANJAYXADMIN">
+<img src="https://github-readme-stats.vercel.app/api?username=SANJAYXNEXORA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=SANJAY%20X%20NEXORA"/>
 
-<img src="https://img.shields.io/badge/GitHub-SANJAYXADMIN-181717?style=for-the-badge&logo=github"/>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SANJAYXNEXORA&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 `CONTRIBUTION // ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANJAYXNEXORA&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🌐 `CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/SANJAYXNEXORA">
+
+<img src="https://img.shields.io/badge/GitHub-SANJAYXNEXORA-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SANJAYXADMIN&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=SANJAYXNEXORA&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -293,18 +412,18 @@ THE JOURNEY BEGAN HERE.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=KEEP+LEARNING;KEEP+BUILDING;KEEP+EXPLORING;KEEP+SECURING"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=KEEP+LEARNING;KEEP+BUILDING;KEEP+EXPLORING;KEEP+TESTING;KEEP+SECURING;NEXORA+PROTOCOL+ACTIVE"/>
 
-<br>
+<br><br>
 
-<h2>⚡ SANJAY X ADMIN ⚡</h2>
+<h2>⚡ SANJAY X NEXORA ⚡</h2>
 
-<h3>🍃LETS MAKE IT MORE INTERESTING🍃</h3>
+<h3>🔐 BUILD • LEARN • EXPLORE • SECURE 🔐</h3>
 
 <p><strong>BUILD YOUR SKILLS. BUILD YOUR FUTURE.</strong></p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:00ff88,100:050505&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:00ff88,100:050505&height=150&section=footer"/>
 
 </div>
