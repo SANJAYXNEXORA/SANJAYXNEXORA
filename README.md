@@ -17,7 +17,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=800&pause=300&color=00FF88&center=true&vCenter=true&width=550&lines=24+%2F+10+%2F+2008"/>
 
-<h3>  NEXORA .</h3>
+<h3> | NEXORA | NEXORA | NEXORA |</h3>
 
 <br>
 
