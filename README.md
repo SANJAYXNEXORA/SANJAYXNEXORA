@@ -17,7 +17,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=800&pause=300&color=00FF88&center=true&vCenter=true&width=550&lines=24+%2F+10+%2F+2008"/>
 
-<h3>THE NEVER ENDED STORY ❤️.</h3>
+<h3>  NEXORA .</h3>
 
 <br>
 
@@ -299,7 +299,7 @@ THE JOURNEY BEGAN HERE.
 
 <h2>⚡ SANJAY X ADMIN ⚡</h2>
 
-<h3>🍃24 / 10 / 2008 WILL NOT FORGET THIS DATE UNTILL MY DEATH 🍃</h3>
+<h3>🍃LETS MAKE IT MORE INTERESTING🍃</h3>
 
 <p><strong>BUILD YOUR SKILLS. BUILD YOUR FUTURE.</strong></p>
 
